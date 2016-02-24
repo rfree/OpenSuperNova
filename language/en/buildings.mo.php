@@ -101,9 +101,9 @@ $a_lang_array = (array(
   'eco_bld_msg_err_requirements_not_meet' => 'Requirements for technology research not met',
   'eco_bld_msg_err_laboratory_upgrading' => 'Laboratories currently upgrading and can not research anything',
 
-  'eco_bld_unit_info_extra_show' => 'Показать дополнительную информацию',
-  'eco_bld_unit_info_extra_hide' => 'Спрятать дополнительную информацию',
-  'eco_bld_unit_info_extra_none' => 'Нет дополнительной информации',
+  'eco_bld_unit_info_extra_show' => 'Show extra information',
+  'eco_bld_unit_info_extra_hide' => 'Hide extra information',
+  'eco_bld_unit_info_extra_none' => 'There is no additional information',
 
   'eco_bld_autoconvert' => 'Autoconvert',
   'eco_bld_autoconvert_explain' => 'Недостающие на постройку/исследование ресурсы будут автоматически сконвертированы из наличных ресурсов (металл, кристалл, дейтерий), а затем постройка/исследование будет поставлена в очередь.\r\n\r\n',
