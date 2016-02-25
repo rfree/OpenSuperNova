@@ -542,7 +542,7 @@ $a_lang_array = (array(
     1 => 'Test',
   ),
 
-  'adm_user_stat' => 'Статистика пользователей',
+  'adm_user_stat' => 'User statistics',
   'adm_user_online' => 'Онлайн с %s по %s',
 
   'adm_ban_unban' => 'Бан/Разбан',
